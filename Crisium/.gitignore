@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Log files
+*.log
+logs/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Build output
+dist/
+build/
+out/
+target/
+bin/
+obj/
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Database files
+*.sqlite
+*.db
+
+# Misc
+*.bak
+*.backup
+*.old
+*.orig
